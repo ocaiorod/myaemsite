@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/caio_rodrigues-estag2025-1/:/",
-    "/content/caio_rodrigues-estag2025-1/configuration:/.helix/config.json",
-    "/content/caio_rodrigues-estag2025-1/metadata:/metadata.json"
+    "/content/caio-rodrigues-test/:/",
+    "/content/caio-rodrigues-test/configuration:/.helix/config.json",
+    "/content/caio-rodrigues-test/metadata:/metadata.json"
   ],
   "includes": [
     "/content/aem-boilerplate/"
